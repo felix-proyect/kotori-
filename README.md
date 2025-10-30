@@ -1,20 +1,26 @@
 > *Comandos para instalar de forma manual*
 
+```bash
 termux-setup-storage
-
-
+```
+```bash
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-
+```
+```bash
 git clone https://github.com/felix-proyect/kotori-  && cd kotori-
+```
 
 ```bash
 yarn install
 ```
 
+```bash
 npm install
+```
 
-
+```bash
 npm start
+```
 
 > *Si aparece **(Y/I/N/O/D/Z) [default=N] ?** use la letra **"y"** y luego **"ENTER"** para continuar con la instalación.*
 
