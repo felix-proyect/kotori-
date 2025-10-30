@@ -7,8 +7,9 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 
 git clone https://github.com/felix-proyect/kotori-  && cd kotori-
 
+```bash
 yarn install
-
+```
 
 npm install
 
